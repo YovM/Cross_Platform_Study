@@ -11,48 +11,39 @@ specific search strings employed for each database:
 
 # Papers
 
-|🔄 Searching phase | Related study 📖                                                                                                                                                                                                                                                                                                                                                                 |
-|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Initial Search  | Chenxi Song, Tao Wang, Gang Yin, Xunhui Zhang, and Cheng Yang. A novel open source software ecosystem: From a graphic point of view and its application. In SEKE, pages 71–74, 2016.                                                                                                                                                                                          |
-|                 | Xiaotao Song, Jiafei Yan, Yuexin Huang, Hailong Sun, and Hongyu Zhang. A collaboration-aware approach to profiling developer expertise with cross-community data. In 2022 IEEE 22nd International Conference on Software Quality, Reliability and Security (QRS), pages 344–355, 2022.                                                                                         |
-|                 | Hao Huang, Yao Lu, and Xinjun Mao. Gathering github oss requirements from q&a community: An empirical study. In 2020 25th International Conference on Engineering of Complex Computer Systems (ICECCS), 2020.                                                                                                                                                                    |
-|                 | Hongbo Fang, Bogdan Vasilescu, and James Herbsleb. Understanding information diffusion about open-source projects on twitter, hackernews, and reddit. In 2023 IEEE/ACM 16th International Conference on Cooperative and Human Aspects of Software Engineering (CHASE), pages 56–67. IEEE, 2023.                                                                                |
-| Snowball-1      | Hongbo Fang, Hemank Lamba, James Herbsleb, and Bogdan Vasilescu. "this is damn slick!": Estimating the impact of tweets on open source project popularity and new contributors. In ICSE ’22: Proceedings of the 44th International Conference on Software Engineering, 2022.                                                                                                      |
-|                 | W. Huang, W. Mo, B. Shen, Y. Yang, and N. Li, "Cpdscorer: Modeling and evaluating developer programming ability across software communities." in SEKE, 2016, pp. 87–92.                                                                                                                                                                                                         |
-|                 | Ali Sajedi Badashian, Abram Hindle, and Eleni Stroulia. Crowdsourced bug triaging: Leveraging q&a platforms for bug assignment. In Fundamental Approaches to Software Engineering: 19th International Conference, FASE 2016, Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2016, Eindhoven, The Netherlands,April 2–8, 2016, Proceedings 19, pages 231–248. Springer, 2016. |
-|                 | Yunxiang Xiong, Zhangyuan Meng, Beijun Shen, and Wei Yin. Developer identity linkage and behavior mining across github and stackoverflow. International Journal of Software Engineering and Knowledge Engineering, 27(09n10):1409–1425, 2017.                                                                                                                                   |
-|                 | X. Zhang, T. Wang, G. Yin, C. Yang, Y. Yu, and H. Wang, “Devrec: A developer recommendation system for open source repositories,” in International Conference on Software Reuse. Springer, 2017, pp. 3–11.                                                                                                                                                                     |
-|                 | Roy Ka-Wei Lee and David Lo. Github and stack overflow: Analyzing developer interests across multiple social collaborative platforms. In Social Informatics: 9th International Conference, SocInfo 2017, Oxford, UK, September 13-15, 2017,Proceedings, Part II 9, pages 245–256. Springer, 2017.                                                                                |
-|                 | BORGES Hudson Silva and VALENTE Marco Tulio. How do developers promote open source projects?                                                                                                                                                                                                                                                                                     |
-|                 | Giuseppe Silvestri, Jie Yang, Alessandro Bozzon, Andrea Tagarelli, et al. Linking accounts across social networks: the case of stackoverflow, github and twitter. In KDWeb, pages 41–52, 2015.                                                                                                                                                                                   |
-|                 | Hongbo Fang, Daniel Klug, Hemank Lamba, James Herbsleb, and Bogdan Vasilescu. Need for tweet: How open source developers talk about their github work on twitter. In MSR ’20: Proceedings of the 17th International Conference on Mining Software Repositories, 2020. 
-|                 | Jiafei Yan, Hailong Sun, Xu Wang, Xudong Liu, and Xiaotao Song. Profiling developer expertise across software communities with heterogeneous information network analysis. In Proceedings of the 10th Asia-Pacific Symposium on Internetware, Internetware ’18, New York, NY, USA, 2018. Association for Computing Machinery.              |
-|                 | Yao Wan, Liang Chen, Guandong Xu, Zhou Zhao, Jie Tang, and Jian Wu. Scsminer: mining social coding sites for software developer recommendation with relevance propagation. World Wide Web, 21:1523–1543, 2018.                                                                                                                                                                  |
-|                 | Leif Singer, Fernando Figueira Filho, and Margaret-Anne Storey. Software engineering at the speed of light: how developers stay current using twitter. In Proceedings of the 36th International Conference on Software Engineering, pages 211–221,2014.                                                                                                                            |
-|                 | Bogdan Vasilescu, Vladimir Filkov, and Alexander Serebrenik. Stackoverflow and github: Associations between software development and crowdsourced knowledge. In 2013 International Conference on Social Computing, pages 188–195. IEEE,2013.                                                                            |
-|                 | Wenkai Mo, Beijun Shen, Yuting Chen, and Jiangang Zhu. Tbil: A tagging-based approach to identity linkage across software communities. In 2015 Asia-Pacific Software Engineering Conference (APSEC), pages 56–63. IEEE, 2015.                                                                                         |
-| Snowball-2      | Takahiro Komamizu, Yasuhiro Hayase, Toshiyuki Amagasa, and Hiroyuki Kitagawa. Exploring identical users on github and stack overflow. In SEKE, pages 584–589, 2017.                                                                                                                                                      |
-|                 | Saraj Singh Manes and Olga Baysal. How often and what stackoverflow posts do developers reference in their github projects? In 2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR), pages 235–239. IEEE, 2019.                                                                             |
-|                 | Yujie Fan, Yiming Zhang, Shifu Hou, Lingwei Chen, Yanfang Ye, Chuan Shi, Liang Zhao, and Shouhuai Xu. idev: Enhancing social coding security by cross-platform user identification between github and stack overflow. In 28th International Joint Conference on Artificial Intelligence (IJCAI), 2019, 2019.              |
-|                 | Ali Sajedi Badashian, Afsaneh Esteki, Ameneh Gholipour, Abram Hindle, and Eleni Stroulia. Involvement, contribution and influence in github and stack overflow. In CASCON, pages 19–33, 2014.                                                                                                                          |
-|                 | Di Yang, Pedro Martins, Vaibhav Saini, and Cristina Lopes. Stack overflow in github: any snippets there? In 2017 IEEE/ACM 14th International Conference on Mining Software Repositories (MSR), pages 280–290. IEEE, 2017.                                                                                              |
-|                 | Sri Lakshmi Vadlamani and Olga Baysal. Studying software developer expertise and contributions in stack overflow and github. In 2020 IEEE International Conference on Software Maintenance and Evolution (ICSME), pages 312–323. IEEE,2020.                                                                             |
-|                 | Saraj Singh Manes and Olga Baysal. Studying the change histories of stack overflow and github snippets. In 2021 IEEE/ACM 18th International Conference on Mining Software Repositories (MSR), pages 283–294, 2021.                                                                                                    |
-|                 | Jungil Kim and Eunjoo Lee. Understanding the working habits of gh-so users on github commit activity and stack overflow post activity. International Journal of Software Engineering and Knowledge Engineering, 31(10):1399–1419, 2021.                                                                                  |
-|                 | Sebastian Baltes and Stephan Diehl. Usage and attribution of stack overflow code snippets in github projects. Empirical Software Engineering, 24(3):1259–1295, 2019.                                                                                                                                                     |
-|                 | Roy Ka-Wei Lee and David Lo. Wisdom in sum of parts: Multi-platform activity prediction in social collaborative sites. In Proceedings of the 10th ACM Conference on Web Science, pages 77–86, 2018.                                                                                                                     |
-| Snowball-3      | Rahul Venkataramani, Atul Gupta, Allahbaksh Asadullah, Basavaraju Muddu, and Vasudev Bhat. Discovery of technical expertise from open source code repositories. In WWW ’13 Companion: Proceedings of the 22nd International Conference on World Wide Web, 2013.                                                        |
-|                 | Yuan Huang, Furen Xu, Haojie Zhou, Xiangping Chen, Xiaocong Zhou, and Tong Wang. Towards exploring the code reuse from stack overflow during software development. In Proceedings of the 30th IEEE/ACM International Conference on Program Comprehension, pages 548–559, 2022.                                         |
-
-## 📂 Additional papers:
-
-- Xiangping Chen, Furen Xu, Yuan Huang, Xiaocong Zhou, and Zibin Zheng. An empirical study of code reuse between github and stack overflow during software development. Journal of Systems and Software, 210:111964, 2024.
-- Syful Islam, Yusuf Sulistyo Nugroho, Chy Md Shahrear, Nuhash Wahed, Dedi Gunawan, Endang Wahyu Pamungkas, Mohammed Humayun Kabir, Yogiek Indra Kurniawan, and Md Kamal Uddin. An empirical study of software ecosystem related tweets by npm maintainers. PeerJ Computer Science, 10:e1669, 2024.
-- Aref Talebzadeh Bardsiri and Abbas Rasoolzadegan. Evaluating developers’ expertise in serverless functions by mining activities from multiple platforms. Computer and Knowledge Engineering, 2024.
-- Hanzhi Jiang, Lin Shi, Meiru Che, Yuxia Zhang, and Qing Wang. Bringing open source communication and development together: A cross-platform study on gitter and github. IEEE Transactions on Software Engineering, 2024.
 
 
-## 📊 Analysis of user characteristics.
+## 📂 Problem Classification and Feature Extraction:
+
+- A Software Bug Fixing Approach Based on Knowledge-Enhanced Large Language Models.
+- What makes the right OSS contributor tick? Treatments to motivate high-skilled developers.
+- How do Developers Talk About GitHub Actions? Evidence from Online Software Development Community
+- ARSearch: Searching for API Related Resources from Stack Overflow and GitHub
+- Value co-destruction in online collaborative networks
+- An Empirical Study of API Misuses of Data-Centric Libraries
+- An Empirical Study on Deployment Faults of Deep Learning Based Mobile Applications
+- Understanding Quantum Software Engineering Challenges An Empirical Study on Stack Exchange Forums and GitHub Issues
+- Bugs in machine learning-based systems: a faultload benchmark
+- Exploring the problems, their causes and solutions of AI pair programming: A study on GitHub and Stack Overflow
+- Repairing Deep Neural Networks: Fix Patterns and Challenges
+- Taxonomy of Real Faults in Deep Learning Systems
+- Mining the Usage of Reactive Programming APIs: A Study on GitHub and Stack Overflow
+- A comprehensive study on deep learning bug characteristics
+- What do Programmers Discuss about Deep Learning Frameworks
+- Actor concurrency bugs: A comprehensive study on symptoms, root causes, API usages, and differences
+- How do developers discuss and support new programming languages in technical Q&A site? An empirical study of Go, Swift, and Rust in Stack Overflow
+- AutoML from Software Engineering Perspective: Landscapes and Challenges
+- An empirical study of challenges in machine learning asset management
+- Issues and Their Causes in WebAssembly Applications: An Empirical Study
+- xVDB: A High-Coverage Approach for Constructing a Vulnerability Database
+- Runtime Permission Issues in Android Apps: Taxonomy, Practices, and Ways Forward
+- An empirical study of developers’ discussions about security challenges of different programming languages
+- Architecture Decisions in AI-based Systems Development: An Empirical Study
+- Rise of Distributed Deep Learning Training in the Big Model Era: From a Software Engineering Perspective
+
+
+
+## 📊 Platform Collaboration.
 - Aref Talebzadeh Bardsiri and Abbas Rasoolzadegan. Evaluating developers’ expertise in serverless functions by mining activities from multiple platforms. Computer and Knowledge Engineering, 2024.
 - Xiaotao Song, Jiafei Yan, Yuexin Huang, Hailong Sun, and Hongyu Zhang. A collaboration-aware approach to profiling developer expertise with cross-community data. In 2022 IEEE 22nd International Conference on Software Quality, Reliability and Security (QRS), pages 344–355, 2022.
 - Jungil Kim and Eunjoo Lee. Understanding the working habits of gh-so users on github commit activity and stack overflow post activity. International Journal of Software Engineering and Knowledge Engineering, 31(10):1399–1419, 2021.
@@ -70,7 +61,7 @@ specific search strings employed for each database:
 - Bogdan Vasilescu, Vladimir Filkov, and Alexander Serebrenik. Stackoverflow and github: Associations between software development and crowdsourced knowledge. In 2013 International Conference on Social Computing, pages 188–195. IEEE,2013.
 
 
-## 📊 Analysis of code reuse.
+## 📊 Code Reuse and Evolution.
 - Xiangping Chen, Furen Xu, Yuan Huang, Xiaocong Zhou, and Zibin Zheng. An empirical study of code reuse between github and stack overflow during software development. Journal of Systems and Software, 210:111964, 2024.
 - Yuan Huang, Furen Xu, Haojie Zhou, Xiangping Chen, Xiaocong Zhou, and Tong Wang. Towards exploring the code reuse from stack overflow during software development. In Proceedings of the 30th IEEE/ACM International Conference on Program Comprehension, pages 548–559, 2022.
 - Saraj Singh Manes and Olga Baysal. Studying the change histories of stack overflow and github snippets. In 2021 IEEE/ACM 18th International Conference on Mining Software Repositories (MSR), pages 283–294, 2021.
@@ -78,7 +69,7 @@ specific search strings employed for each database:
 - Sebastian Baltes and Stephan Diehl. Usage and attribution of stack overflow code snippets in github projects. Empirical Software Engineering, 24(3):1259–1295, 2019.
 - Di Yang, Pedro Martins, Vaibhav Saini, and Cristina Lopes. Stack overflow in github: any snippets there? In 2017 IEEE/ACM 14th International Conference on Mining Software Repositories (MSR), pages 280–290. IEEE, 2017.
 
-## 📊 Analysis of community interactions.
+## 📊 User Characteristics.
 - Hanzhi Jiang, Lin Shi, Meiru Che, Yuxia Zhang, and Qing Wang. Bringing open source communication and development together: A cross-platform study on gitter and github. IEEE Transactions on Software Engineering, 2024.
 - Syful Islam, Yusuf Sulistyo Nugroho, Chy Md Shahrear, Nuhash Wahed, Dedi Gunawan, Endang Wahyu Pamungkas, Mohammed Humayun Kabir, Yogiek Indra Kurniawan, and Md Kamal Uddin. An empirical study of software ecosystem related tweets by npm maintainers. PeerJ Computer Science,10:e1669, 2024.
 - Hongbo Fang, Bogdan Vasilescu, and James Herbsleb. Understanding information diffusion about open-source projects on twitter, hackernews, and reddit. In 2023 IEEE/ACM 16th International Conference on Cooperative and Human Aspects of Software Engineering (CHASE), pages 56–67. IEEE, 2023.
@@ -87,6 +78,8 @@ specific search strings employed for each database:
 - Chenxi Song, Tao Wang, Gang Yin, Xunhui Zhang, and Cheng Yang. A novel open source software ecosystem: From a graphic point of view and its application. In SEKE, pages 71–74, 2016.
 - Bogdan Vasilescu, Alexander Serebrenik, Prem Devanbu, and Vladimir Filkov. How social q&a sites are changing knowledge sharing in open source software communities. In Proceedings of the 17th ACM conference on Computer supported cooperative work & social computing, pages 342–354, 2014.
 - BORGES Hudson Silva and VALENTE Marco Tulio. How do developers promote open source projects?
+
+## 📊 Cross-platform Data Optimization.
 
 # 🧪 Designed experiments
 ## Dataset 📂
