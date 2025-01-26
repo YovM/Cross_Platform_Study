@@ -44,21 +44,25 @@ specific search strings employed for each database:
 
 
 ## 📊 Platform Collaboration.
-- Aref Talebzadeh Bardsiri and Abbas Rasoolzadegan. Evaluating developers’ expertise in serverless functions by mining activities from multiple platforms. Computer and Knowledge Engineering, 2024.
-- Xiaotao Song, Jiafei Yan, Yuexin Huang, Hailong Sun, and Hongyu Zhang. A collaboration-aware approach to profiling developer expertise with cross-community data. In 2022 IEEE 22nd International Conference on Software Quality, Reliability and Security (QRS), pages 344–355, 2022.
-- Jungil Kim and Eunjoo Lee. Understanding the working habits of gh-so users on github commit activity and stack overflow post activity. International Journal of Software Engineering and Knowledge Engineering, 31(10):1399–1419, 2021.
-- Hongbo Fang, Daniel Klug, Hemank Lamba, James Herbsleb, and Bogdan Vasilescu. Need for tweet: How open source developers talk about their github work on twitter. In MSR ’20: Proceedings of the 17th International Conference on Mining Software Repositories, 2020.
-- Sri Lakshmi Vadlamani and Olga Baysal. Studying software developer expertise and contributions in stack overflow and github. In 2020 IEEE International Conference on Software Maintenance and Evolution (ICSME), pages 312–323. IEEE,2020.
-- Roy Ka-Wei Lee and David Lo. Wisdom in sum of parts: Multi-platform activity prediction in social collaborative sites. In Proceedings of the 10th ACM Conference on Web Science, pages 77–86, 2018.
-- Jiafei Yan, Hailong Sun, Xu Wang, Xudong Liu, and Xiaotao Song. Profiling developer expertise across software communities with heterogeneous information network analysis. In Proceedings of the 10th Asia-Pacific Symposium on Internetware,Internetware ’18, New York, NY, USA, 2018. Association for Computing Machinery.
-- Yao Wan, Liang Chen, Guandong Xu, Zhou Zhao, Jie Tang, and Jian Wu. Scsminer: mining social coding sites for software developer recommendation with relevance propagation. World Wide Web, 21:1523–1543, 2018.
-- Roy Ka-Wei Lee and David Lo. Github and stack overflow: Analyzing developer interests across multiple social collaborative platforms. In Social Informatics: 9th International Conference, SocInfo 2017, Oxford, UK, September 13-15, 2017,Proceedings, Part II 9, pages 245–256. Springer, 2017.
-- Yunxiang Xiong, Zhangyuan Meng, Beijun Shen, and Wei Yin. Developer identity linkage and behavior mining across github and stackoverflow. International Journal of Software Engineering and Knowledge Engineering, 27(09n10):1409–1425, 2017.
-- Xunhui Zhang, Tao Wang, Gang Yin, Cheng Yang, Yue Yu, and Huaimin Wang. Devrec: A developer recommendation system for open source repositories. In 16th International Conference on Software Reuse, ICSR 2017, 2017.
-- Ali Sajedi Badashian, Abram Hindle, and Eleni Stroulia. Crowdsourced bug triaging: Leveraging q&a platforms for bug assignment. In Fundamental Approaches to Software Engineering: 19th International Conference, FASE 2016, Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2016, Eindhoven, The Netherlands,April 2–8, 2016, Proceedings 19, pages 231–248. Springer, 2016.
-- Leif Singer, Fernando Figueira Filho, and Margaret-Anne Storey. Software engineering at the speed of light: how developers stay current using twitter. In Proceedings of the 36th International Conference on Software Engineering, pages 211–221,2014.
-- Ali Sajedi Badashian, Afsaneh Esteki, Ameneh Gholipour, Abram Hindle, and Eleni Stroulia. Involvement, contribution and influence in github and stack overflow. In CASCON, pages 19–33, 2014.
-- Bogdan Vasilescu, Vladimir Filkov, and Alexander Serebrenik. Stackoverflow and github: Associations between software development and crowdsourced knowledge. In 2013 International Conference on Social Computing, pages 188–195. IEEE,2013.
+- How are issue reports discussed in Gitter chat rooms?
+- Multimodal Recommendation of Messenger Channels.
+- Poster: Communication in Open-Source Projects–End of the E-mail Era?
+- "My GitHub Sponsors profile is live!" Investigating the Impact of Twitter/X Mentions on GitHub Sponsors.
+- Developing Software Engineering Skills using Real Tools for Automated Grading.
+- Mining DEV for social and technical insights about software development.
+- Software engineering at the speed of light: How developers stay current using twitter.
+- Exploring the ecosystem of software developers on GitHub and other platforms.
+- "This is damn slick!": estimating the impact of tweets on open source project popularity and new contributors.
+- Picaso: Enhancing API Recommendations with Relevant Stack Overflow Posts.
+- RACK: Code Search in the IDE Using Crowdsourced Knowledge.
+- Live API documentation.
+- Multiple social platforms reveal actionable signals for software vulnerability awareness: A study of GitHub, Twitter and Reddit.
+- Recommending stack overflow posts for fixing runtime exceptions using failure scenario matching.
+- Bringing Open Source Communication and Development Together: A Cross-Platform Study on Gitter and GitHub.
+- Augmenting stack overflow with API usage patterns mined from GitHub.
+- On the Rise of Modern Software Documentation.
+- Fighting disaster misinformation in Latin America: the #19S Mexican earthquake case study.
+
 
 
 ## 📊 Code Reuse and Evolution.
