@@ -1,5 +1,5 @@
 # Cross_Platform_Study🔍🌐
-This repository complements our recent work on the “Open Source Oriented Cross-platform Survey”. The repository includes papers related to our research as well as related resources (datasets, etc.).
+This repository complements our recent work on the “Open Source Oriented Cross-platform Survey”. The repository includes papers related to our research.
 
 # 📚 Search string
 specific search strings employed for each database:
