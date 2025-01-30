@@ -1,5 +1,5 @@
 # Cross_Platform_Study🔍🌐
-This repository complements our recent work on the “Open Source Oriented Cross-platform Survey”. The repository includes papers related to our research.
+This repository serves as a supplement to our recent study on the ''Open Source Oriented Cross-Platform Survey.'' It provides the search strings used for each database in our research, as well as the papers related to each research topic.
 
 # 📚 Search string
 specific search strings employed for each database:
